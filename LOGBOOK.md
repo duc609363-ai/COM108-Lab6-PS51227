@@ -44,8 +44,11 @@ FAILED Test Nen 1: delta[0] -> Expected: 100, Actual: 0
 FAILED Test Nen 1: delta[0] -> Expected: 100, Actual: 0
 
 ### Lần 6: Bài 2 (Dự phòng)
-- Trạng thái: 
-- Lỗi / Cách sửa: 
+- Trạng thái: PASS 100%
+- Lỗi / Cách sửa:![alt text](image-2.png)
+lỗi chưa lưu filed 
+ [CHAY TEST BAI 2: NEN & GIAI NEN SAI PHAN DELTA ENCODING]     
+>>> BAI 2: PASS 100% TEST CASES!
 
 ---
 
