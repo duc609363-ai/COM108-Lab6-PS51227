@@ -15,6 +15,8 @@
 - Prompt hỏi AI (nếu có): 
 - Lỗi phát hiện qua Test (nếu có): 
 - Cách sửa / Bài học: 
+[CHAY TEST BAI 1: BO LOC LAM MIN TIN HIEU MOVING AVERAGE]
+FAILED Test 1 (Chuan n=5): Tai vi tri smooth[0] -> Expected: 15.00, Actual: 0.00
 
 ### Lần 2: Bài 1
 - Trạng thái: 
