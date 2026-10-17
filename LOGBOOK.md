@@ -1,7 +1,7 @@
 # NHẬT KÝ THỰC HIỆN LAB 6 (LOGBOOK)
 
-* **Họ và tên:** 
-* **Mã sinh viên:** 
+* **Họ và tên:** Phạm Hữu Đức
+* **Mã sinh viên:** PS51227
 * **Link Repository cá nhân:** 
 
 > [!NOTE]
@@ -11,16 +11,19 @@
 ---
 
 ### Lần 1: Bài 1 - Bộ Lọc Làm Mịn Tín Hiệu (Moving Average)
-- Trạng thái: Chờ chấm
-- Prompt hỏi AI (nếu có): 
+- Trạng thái: failed
+- Prompt hỏi AI (nếu có): "sao code ban no bao loi that bai vay"![alt text](image.png)
 - Lỗi phát hiện qua Test (nếu có): 
 - Cách sửa / Bài học: 
 [CHAY TEST BAI 1: BO LOC LAM MIN TIN HIEU MOVING AVERAGE]
 FAILED Test 1 (Chuan n=5): Tai vi tri smooth[0] -> Expected: 15.00, Actual: 0.00
 
 ### Lần 2: Bài 1
-- Trạng thái: 
+- Trạng thái: Pass 100%
 - Lỗi / Cách sửa: 
+ em viết thiếu khúc smooth[0] = raw[0]; thay vì if (n >= 2) mà em bỏ viết nó thành rertun
+[CHAY TEST BAI 1: BO LOC LAM MIN TIN HIEU MOVING AVERAGE]
+>>> BAI 1: PASS 100% TEST CASES!
 
 ### Lần 3: Bài 1 (Dự phòng)
 - Trạng thái: 
@@ -29,14 +32,16 @@ FAILED Test 1 (Chuan n=5): Tai vi tri smooth[0] -> Expected: 15.00, Actual: 0.00
 ---
 
 ### Lần 4: Bài 2 - Nén Sai Phân Dữ Liệu IoT (Delta Encoding)
-- Trạng thái: 
-- Prompt hỏi AI (nếu có): 
+- Trạng thái: failed
+- Prompt hỏi AI (nếu có): ![alt text](image-1.png)
 - Lỗi phát hiện qua Test (nếu có): 
-- Cách sửa / Bài học: 
+- Cách sửa / Bài học: [CHAY TEST BAI 2: NEN & GIAI NEN SAI PHAN DELTA ENCODING]
+FAILED Test Nen 1: delta[0] -> Expected: 100, Actual: 0
 
 ### Lần 5: Bài 2
-- Trạng thái: 
-- Lỗi / Cách sửa: 
+- Trạng thái: failed
+- Lỗi / Cách sửa: [CHAY TEST BAI 2: NEN & GIAI NEN SAI PHAN DELTA ENCODING]
+FAILED Test Nen 1: delta[0] -> Expected: 100, Actual: 0
 
 ### Lần 6: Bài 2 (Dự phòng)
 - Trạng thái: 
