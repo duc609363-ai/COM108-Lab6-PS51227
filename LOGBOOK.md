@@ -2,7 +2,7 @@
 
 * **Họ và tên:** Phạm Hữu Đức
 * **Mã sinh viên:** PS51227
-* **Link Repository cá nhân:** 
+* **Link Repository cá nhân:** https://github.com/duc609363-ai/COM108-Lab6-PS51227-PhamHuuDuc.git
 
 > [!NOTE]
 > **HƯỚNG DẪN DÀNH CHO KỶ NGUYÊN AI:**  
@@ -53,14 +53,18 @@ lỗi chưa lưu filed
 ---
 
 ### Lần 7: Bài 3 - Bộ Lọc Làm Mờ Điểm Ảnh (Box Blur Filter 3x3)
-- Trạng thái: 
-- Prompt hỏi AI (nếu có): 
+- Trạng thái: failed
+- Prompt hỏi AI (nếu có): ![alt text](image-3.png)
 - Lỗi phát hiện qua Test (nếu có): 
 - Cách sửa / Bài học: 
+[CHAY TEST BAI 3: BO LOC LAM MO DIEM ANH BOX BLUR 3x3]        
+FAILED Test 1 (3x3): Tai dest[0][0] -> Expected: 30, Actual: 0
 
 ### Lần 8: Bài 3
-- Trạng thái: 
-- Lỗi / Cách sửa: 
+- Trạng thái: Pass 100%
+- Lỗi / Cách sửa:
+ [CHAY TEST BAI 3: BO LOC LAM MO DIEM ANH BOX BLUR 3x3]
+>>> BAI 3: PASS 100% TEST CASES!
 
 ### Lần 9: Bài 3 (Dự phòng)
 - Trạng thái: 
